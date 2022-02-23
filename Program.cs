@@ -18,7 +18,7 @@ namespace AbstractExample
             }
             else if (choice == "2")
             {
-                animal = new Dog();
+                animal = new Cow();
             }
 
             animal?.MakeNoise();
